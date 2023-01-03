@@ -334,7 +334,7 @@ footer .copyright {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: url(Banner\ 1.jpg);
+    background: url(image/banner.jpg);
     width: 100%;
     height: 60vh;
     background-size: cover;
@@ -434,7 +434,7 @@ button.exploreB {
 }
 
 .page-item input {
-    line-height: 5px;
+    line-height: 4px;
     padding: 3px;
     font-size: 15px;
     display: flex;
